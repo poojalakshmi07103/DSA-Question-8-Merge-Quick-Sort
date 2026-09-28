@@ -1,0 +1,20 @@
+COMPARISON OF MERGE SORT AND QUICK SORT
+
+Merge Sort:
+- Time complexity: O(n log n)
+- Extra space: O(n)
+- Stable: Yes
+- Worst case: O(n log n)
+
+Quick Sort:
+- Average time: O(n log n)
+- Worst case: O(n^2)
+- Extra space: O(log n) average
+- Generally not stable
+
+CONCLUSION:
+
+Merge Sort provides predictable O(n log n) performance.
+Quick Sort generally uses less additional memory and has
+O(n log n) average-case performance. The choice depends on
+memory requirements and worst-case performance requirements.
